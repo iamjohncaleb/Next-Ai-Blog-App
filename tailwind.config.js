@@ -19,6 +19,7 @@ module.exports = {
           "linear-gradient(180deg, rgba(116, 116, 116, 0) 66.15%, #000000 100%)",
       }),
     },
+    
     screens: {
       xs: "480px",
       sm: "768px",
